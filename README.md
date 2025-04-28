@@ -25,7 +25,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/luxprajapati/vite-react-ui.git
     ```
 
 2. Navigate to the project directory:
@@ -37,19 +37,12 @@ To set up the project locally, follow these steps:
     ```bash
     npm install
     ```
-    or
-    ```bash
-    yarn install
-    ```
 
 4. Start the development server:
     ```bash
     npm run dev
     ```
-    or
-    ```bash
-    yarn dev
-    ```
+
 
 5. Open your browser and navigate to `http://localhost:5173` to view the application.
 
