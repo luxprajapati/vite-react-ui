@@ -9,7 +9,7 @@ This project is a modern React-based UI application built using [Vite](https://v
 - **Reusable Components**: Modular and reusable UI elements.
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 - **Swiper Integration**: Smooth and customizable carousels.
-- **Modern JavaScript**: ES6+ syntax and best practices.
+
 
 ## Technologies Used
 
@@ -17,7 +17,6 @@ This project is a modern React-based UI application built using [Vite](https://v
 - **Vite**: Next-generation frontend tooling.
 - **Tailwind CSS**: Utility-first CSS framework.
 - **Swiper**: Modern carousel library.
-- **ESLint**: Linting for consistent code quality.
 
 ## Getting Started
 
